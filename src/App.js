@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './iconLogo.svg';
 import './App.css';
 
 function App() {
@@ -6,16 +6,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/DenisLoza/test-software"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          WELCOME to ICON DESIGN
         </a>
       </header>
     </div>
