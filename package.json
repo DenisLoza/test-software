@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage" : "https://DenisLoza.github.io/test-software",
+  "homepage": "https://DenisLoza.github.io/test-software",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -39,6 +39,9 @@
     ]
   },
   "devDependencies": {
+    "eslint": "^8.54.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-react": "^7.33.2",
     "gh-pages": "^6.1.0"
   }
 }
